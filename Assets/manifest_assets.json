@@ -1,0 +1,1532 @@
+[
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_correr_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_correr_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_correr_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_atacar_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_atacar_nor.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_atacar_lat.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_saltar_sur.png",
+  "w": 320,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_saltar_nor.png",
+  "w": 320,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_saltar_lat.png",
+  "w": 320,
+  "h": 64
+ },
+ {
+  "id": "PJ-01",
+  "file": "Assets/Art/Characters/Mercader/spr_pj_mercader_desmayo_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-02",
+  "file": "Assets/Art/Characters/Candil/spr_pj_candil_flotar.png",
+  "w": 128,
+  "h": 32
+ },
+ {
+  "id": "PJ-02",
+  "file": "Assets/Art/Characters/Candil/spr_pj_candil_alerta.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "PJ-03",
+  "file": "Assets/Art/Characters/Candil/spr_pj_candil_luz_flotar.png",
+  "w": 128,
+  "h": 32
+ },
+ {
+  "id": "PJ-04",
+  "file": "Assets/Art/Characters/Tomas/spr_pj_tomas_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-04",
+  "file": "Assets/Art/Characters/Tomas/spr_pj_tomas_atender_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-05",
+  "file": "Assets/Art/Characters/Bruno/spr_pj_bruno_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-05",
+  "file": "Assets/Art/Characters/Bruno/spr_pj_bruno_martillar_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-06",
+  "file": "Assets/Art/Characters/Elvira/spr_pj_elvira_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-06",
+  "file": "Assets/Art/Characters/Elvira/spr_pj_elvira_atender_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-07",
+  "file": "Assets/Art/Characters/Inquisidor/spr_pj_inquisidor_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-07",
+  "file": "Assets/Art/Characters/Inquisidor/spr_pj_inquisidor_atender_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-08",
+  "file": "Assets/Art/Characters/GuardiaTemplo/spr_pj_guardia_templo_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-09",
+  "file": "Assets/Art/Characters/Cliente_base/spr_pj_cliente_base_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-09",
+  "file": "Assets/Art/Characters/Cliente_base/spr_pj_cliente_base_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-09",
+  "file": "Assets/Art/Characters/Cliente_base/spr_pj_cliente_base_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-09",
+  "file": "Assets/Art/Characters/Cliente_base/spr_pj_cliente_base_caminar_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-09",
+  "file": "Assets/Art/Characters/Cliente_base/spr_pj_cliente_base_caminar_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-09",
+  "file": "Assets/Art/Characters/Cliente_base/spr_pj_cliente_base_caminar_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-10",
+  "file": "Assets/Art/Characters/Cliente_campesino/spr_pj_cliente_campesino_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-10",
+  "file": "Assets/Art/Characters/Cliente_campesino/spr_pj_cliente_campesino_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-10",
+  "file": "Assets/Art/Characters/Cliente_campesino/spr_pj_cliente_campesino_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-10",
+  "file": "Assets/Art/Characters/Cliente_campesino/spr_pj_cliente_campesino_caminar_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-10",
+  "file": "Assets/Art/Characters/Cliente_campesino/spr_pj_cliente_campesino_caminar_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-10",
+  "file": "Assets/Art/Characters/Cliente_campesino/spr_pj_cliente_campesino_caminar_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-11",
+  "file": "Assets/Art/Characters/Cliente_artesano/spr_pj_cliente_artesano_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-11",
+  "file": "Assets/Art/Characters/Cliente_artesano/spr_pj_cliente_artesano_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-11",
+  "file": "Assets/Art/Characters/Cliente_artesano/spr_pj_cliente_artesano_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-11",
+  "file": "Assets/Art/Characters/Cliente_artesano/spr_pj_cliente_artesano_caminar_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-11",
+  "file": "Assets/Art/Characters/Cliente_artesano/spr_pj_cliente_artesano_caminar_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-11",
+  "file": "Assets/Art/Characters/Cliente_artesano/spr_pj_cliente_artesano_caminar_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-12",
+  "file": "Assets/Art/Characters/Cliente_dama/spr_pj_cliente_dama_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-12",
+  "file": "Assets/Art/Characters/Cliente_dama/spr_pj_cliente_dama_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-12",
+  "file": "Assets/Art/Characters/Cliente_dama/spr_pj_cliente_dama_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-12",
+  "file": "Assets/Art/Characters/Cliente_dama/spr_pj_cliente_dama_caminar_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-12",
+  "file": "Assets/Art/Characters/Cliente_dama/spr_pj_cliente_dama_caminar_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-12",
+  "file": "Assets/Art/Characters/Cliente_dama/spr_pj_cliente_dama_caminar_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_caminar_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_caminar_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_caminar_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_atacar_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_atacar_nor.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "PJ-13",
+  "file": "Assets/Art/Characters/GuardiaSueldo/spr_pj_guardia_sueldo_atacar_lat.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_idle_sur.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_idle_nor.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_idle_lat.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_correr_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_correr_nor.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_correr_lat.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_robar_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-01",
+  "file": "Assets/Art/Characters/Ladron/spr_enm_ladron_huir_lat.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_flotar_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_flotar_nor.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_flotar_lat.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_atacar_sur.png",
+  "w": 192,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_atacar_nor.png",
+  "w": 192,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_atacar_lat.png",
+  "w": 192,
+  "h": 64
+ },
+ {
+  "id": "EN-02",
+  "file": "Assets/Art/Characters/Anima_errante/spr_enm_anima_errante_desvanecer_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_flotar_sur.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_flotar_nor.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_flotar_lat.png",
+  "w": 256,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_atacar_sur.png",
+  "w": 192,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_atacar_nor.png",
+  "w": 192,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_atacar_lat.png",
+  "w": 192,
+  "h": 64
+ },
+ {
+  "id": "EN-03",
+  "file": "Assets/Art/Characters/Anima_veloz/spr_enm_anima_veloz_desvanecer_sur.png",
+  "w": 384,
+  "h": 64
+ },
+ {
+  "id": "EN-04",
+  "file": "Assets/Art/Characters/Glotglot/spr_enm_glotglot_idle.png",
+  "w": 512,
+  "h": 128
+ },
+ {
+  "id": "EN-04",
+  "file": "Assets/Art/Characters/Glotglot/spr_enm_glotglot_avanzar.png",
+  "w": 512,
+  "h": 128
+ },
+ {
+  "id": "EN-04",
+  "file": "Assets/Art/Characters/Glotglot/spr_enm_glotglot_golpear.png",
+  "w": 640,
+  "h": 128
+ },
+ {
+  "id": "EN-04",
+  "file": "Assets/Art/Characters/Glotglot/spr_enm_glotglot_desvanecer.png",
+  "w": 1024,
+  "h": 128
+ },
+ {
+  "id": "TS-01",
+  "file": "Assets/Art/Tilesets/spr_tile_pueblo.png",
+  "w": 512,
+  "h": 512
+ },
+ {
+  "id": "TS-02",
+  "file": "Assets/Art/Tilesets/spr_tile_bosque.png",
+  "w": 512,
+  "h": 512
+ },
+ {
+  "id": "TS-03",
+  "file": "Assets/Art/Tilesets/spr_tile_tienda.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "TS-04",
+  "file": "Assets/Art/Tilesets/spr_tile_huerto.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "TS-05",
+  "file": "Assets/Art/Tilesets/spr_tile_cementerio.png",
+  "w": 512,
+  "h": 512
+ },
+ {
+  "id": "TS-06",
+  "file": "Assets/Art/Tilesets/spr_tile_bosque_estados.png",
+  "w": 512,
+  "h": 512
+ },
+ {
+  "id": "OB-01",
+  "file": "Assets/Art/Objects/spr_obj_roble_01.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-01",
+  "file": "Assets/Art/Objects/spr_obj_roble_02.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-01",
+  "file": "Assets/Art/Objects/spr_obj_roble_03.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-02",
+  "file": "Assets/Art/Objects/spr_obj_tocon.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "OB-03",
+  "file": "Assets/Art/Objects/spr_obj_roble_joven.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "OB-04",
+  "file": "Assets/Art/Objects/spr_obj_hierbas.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "OB-05",
+  "file": "Assets/Art/Objects/spr_obj_hongos.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "OB-06",
+  "file": "Assets/Art/Objects/spr_obj_parcela.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "OB-07",
+  "file": "Assets/Art/Objects/spr_obj_cultivo_trigo.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "OB-08",
+  "file": "Assets/Art/Objects/spr_obj_cultivo_nabo.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "OB-09",
+  "file": "Assets/Art/Objects/spr_obj_cultivo_calabaza.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "OB-10",
+  "file": "Assets/Art/Objects/spr_obj_estante.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "OB-11",
+  "file": "Assets/Art/Objects/spr_obj_mostrador.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-12",
+  "file": "Assets/Art/Objects/spr_obj_cama.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-13",
+  "file": "Assets/Art/Objects/spr_obj_puesto_tomas.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-14",
+  "file": "Assets/Art/Objects/spr_obj_puesto_bruno.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-15",
+  "file": "Assets/Art/Objects/spr_obj_puesto_elvira.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-16",
+  "file": "Assets/Art/Objects/spr_obj_puesto_inquisidor.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-17",
+  "file": "Assets/Art/Objects/spr_obj_puesto_guardias.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-18",
+  "file": "Assets/Art/Objects/spr_obj_puerta_tienda.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "OB-19",
+  "file": "Assets/Art/Objects/spr_obj_farol_fachada.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "OB-20",
+  "file": "Assets/Art/Objects/spr_obj_pila_lena.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-21",
+  "file": "Assets/Art/Objects/spr_obj_lapida.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "OB-22",
+  "file": "Assets/Art/Objects/spr_obj_porton_cementerio.png",
+  "w": 128,
+  "h": 64
+ },
+ {
+  "id": "OB-23",
+  "file": "Assets/Art/Objects/spr_obj_bellota.png",
+  "w": 160,
+  "h": 32
+ },
+ {
+  "id": "OB-24",
+  "file": "Assets/Art/Objects/spr_obj_bellota_antigua.png",
+  "w": 160,
+  "h": 32
+ },
+ {
+  "id": "OB-25",
+  "file": "Assets/Art/Objects/spr_obj_moneda.png",
+  "w": 128,
+  "h": 32
+ },
+ {
+  "id": "OB-26",
+  "file": "Assets/Art/Objects/spr_obj_letrero_sendero.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "OB-27",
+  "file": "Assets/Art/Objects/spr_obj_carro_lena.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "OB-28",
+  "file": "Assets/Art/Objects/spr_obj_barril_cajas.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "OB-29",
+  "file": "Assets/Art/Objects/spr_obj_sombra.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "OB-30",
+  "file": "Assets/Art/Objects/spr_obj_marcador_e.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-01",
+  "file": "Assets/Art/Items/singles/spr_item_semilla_trigo.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-02",
+  "file": "Assets/Art/Items/singles/spr_item_semilla_nabo.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-03",
+  "file": "Assets/Art/Items/singles/spr_item_semilla_calabaza.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-04",
+  "file": "Assets/Art/Items/singles/spr_item_trigo.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-05",
+  "file": "Assets/Art/Items/singles/spr_item_nabo.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-06",
+  "file": "Assets/Art/Items/singles/spr_item_calabaza.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-07",
+  "file": "Assets/Art/Items/singles/spr_item_lena.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-08",
+  "file": "Assets/Art/Items/singles/spr_item_hierbas.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-09",
+  "file": "Assets/Art/Items/singles/spr_item_hongos.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-10",
+  "file": "Assets/Art/Items/singles/spr_item_cuerda.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-11",
+  "file": "Assets/Art/Items/singles/spr_item_infusion.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "IT-01..11",
+  "file": "Assets/Art/Items/spr_item_hoja.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "UI-01",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_moneda_oro.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-02",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_hoja.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-03",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_corazon.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-04",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_escudo.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-05",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_sol.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-06",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_luna.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-07",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_antorcha.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-08",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_hoja_pequena.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-09",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_candado.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-10",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_palomita.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-11",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_circulo_vacio.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-12",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_flecha.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-13",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_cruz_cerrar.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-14",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_engrane.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-15",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_altavoz_activo.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-16",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_altavoz_silenciado.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-17",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_pantalla.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-18",
+  "file": "Assets/Art/UI/Icons/singles/spr_ui_icono_contraste.png",
+  "w": 64,
+  "h": 64
+ },
+ {
+  "id": "UI-01..18",
+  "file": "Assets/Art/UI/Icons/spr_ui_iconos.png",
+  "w": 512,
+  "h": 512
+ },
+ {
+  "id": "UI-19",
+  "file": "Assets/Art/UI/Elements/spr_ui_marco_ventana.png",
+  "w": 96,
+  "h": 96
+ },
+ {
+  "id": "UI-20",
+  "file": "Assets/Art/UI/Elements/spr_ui_boton_normal.png",
+  "w": 160,
+  "h": 48
+ },
+ {
+  "id": "UI-20",
+  "file": "Assets/Art/UI/Elements/spr_ui_boton_sobre.png",
+  "w": 160,
+  "h": 48
+ },
+ {
+  "id": "UI-20",
+  "file": "Assets/Art/UI/Elements/spr_ui_boton_pulsado.png",
+  "w": 160,
+  "h": 48
+ },
+ {
+  "id": "UI-21",
+  "file": "Assets/Art/UI/Elements/spr_ui_ranura_rapida_normal.png",
+  "w": 48,
+  "h": 48
+ },
+ {
+  "id": "UI-21",
+  "file": "Assets/Art/UI/Elements/spr_ui_ranura_rapida_sel.png",
+  "w": 48,
+  "h": 48
+ },
+ {
+  "id": "UI-22",
+  "file": "Assets/Art/UI/Elements/spr_ui_ranura_inventario_normal.png",
+  "w": 48,
+  "h": 48
+ },
+ {
+  "id": "UI-22",
+  "file": "Assets/Art/UI/Elements/spr_ui_ranura_inventario_sel.png",
+  "w": 48,
+  "h": 48
+ },
+ {
+  "id": "UI-23",
+  "file": "Assets/Art/UI/Elements/spr_ui_barra_vida_fondo.png",
+  "w": 192,
+  "h": 24
+ },
+ {
+  "id": "UI-23",
+  "file": "Assets/Art/UI/Elements/spr_ui_barra_vida_relleno.png",
+  "w": 192,
+  "h": 24
+ },
+ {
+  "id": "UI-24",
+  "file": "Assets/Art/UI/Elements/spr_ui_barra_integridad_fondo.png",
+  "w": 192,
+  "h": 24
+ },
+ {
+  "id": "UI-24",
+  "file": "Assets/Art/UI/Elements/spr_ui_barra_integridad_relleno.png",
+  "w": 192,
+  "h": 24
+ },
+ {
+  "id": "UI-25",
+  "file": "Assets/Art/UI/Elements/spr_ui_reloj_fondo.png",
+  "w": 256,
+  "h": 32
+ },
+ {
+  "id": "UI-25",
+  "file": "Assets/Art/UI/Elements/spr_ui_reloj_relleno.png",
+  "w": 256,
+  "h": 32
+ },
+ {
+  "id": "UI-26",
+  "file": "Assets/Art/UI/Elements/spr_ui_caja_dialogo.png",
+  "w": 896,
+  "h": 192
+ },
+ {
+  "id": "UI-27",
+  "file": "Assets/Art/UI/Elements/spr_ui_notificacion.png",
+  "w": 320,
+  "h": 64
+ },
+ {
+  "id": "UI-28",
+  "file": "Assets/Art/UI/Elements/spr_ui_ventana_comercio.png",
+  "w": 768,
+  "h": 512
+ },
+ {
+  "id": "UI-29",
+  "file": "Assets/Art/UI/Elements/spr_ui_pestana_activa.png",
+  "w": 160,
+  "h": 40
+ },
+ {
+  "id": "UI-29",
+  "file": "Assets/Art/UI/Elements/spr_ui_pestana_inactiva.png",
+  "w": 160,
+  "h": 40
+ },
+ {
+  "id": "UI-30",
+  "file": "Assets/Art/UI/Elements/spr_ui_deslizador_riel.png",
+  "w": 256,
+  "h": 32
+ },
+ {
+  "id": "UI-30",
+  "file": "Assets/Art/UI/Elements/spr_ui_deslizador_manija.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "UI-31",
+  "file": "Assets/Art/UI/Elements/spr_ui_interruptor_off.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "UI-31",
+  "file": "Assets/Art/UI/Elements/spr_ui_interruptor_on.png",
+  "w": 64,
+  "h": 32
+ },
+ {
+  "id": "UI-32",
+  "file": "Assets/Art/UI/Elements/spr_ui_desplazamiento_riel.png",
+  "w": 24,
+  "h": 256
+ },
+ {
+  "id": "UI-32",
+  "file": "Assets/Art/UI/Elements/spr_ui_desplazamiento_manija.png",
+  "w": 24,
+  "h": 48
+ },
+ {
+  "id": "UI-33",
+  "file": "Assets/Art/UI/Elements/fnt_ui_tipografia.ttf",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "FX-01",
+  "file": "Assets/Art/VFX/spr_vfx_desvanecimiento_anima.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "FX-02",
+  "file": "Assets/Art/VFX/spr_vfx_polvo_tala.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "FX-03",
+  "file": "Assets/Art/VFX/spr_vfx_hoja_cae.png",
+  "w": 96,
+  "h": 32
+ },
+ {
+  "id": "FX-04",
+  "file": "Assets/Art/VFX/spr_vfx_impacto_golpe.png",
+  "w": 128,
+  "h": 32
+ },
+ {
+  "id": "FX-05",
+  "file": "Assets/Art/VFX/spr_vfx_brillo_collectible.png",
+  "w": 128,
+  "h": 32
+ },
+ {
+  "id": "FX-06",
+  "file": "Assets/Art/VFX/spr_vfx_chispa_fuego.png",
+  "w": 32,
+  "h": 32
+ },
+ {
+  "id": "FX-07",
+  "file": "Assets/Art/VFX/spr_vfx_niebla_nocturna.png",
+  "w": 128,
+  "h": 128
+ },
+ {
+  "id": "RT-01",
+  "file": "Assets/Art/Portraits/spr_ret_mercader.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "RT-02",
+  "file": "Assets/Art/Portraits/spr_ret_bruno.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "RT-03",
+  "file": "Assets/Art/Portraits/spr_ret_elvira.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "RT-04",
+  "file": "Assets/Art/Portraits/spr_ret_inquisidor.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "RT-05",
+  "file": "Assets/Art/Portraits/spr_ret_candil.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "RT-06",
+  "file": "Assets/Art/Portraits/spr_ret_glotglot.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "RT-07",
+  "file": "Assets/Art/Portraits/spr_ret_tomas.png",
+  "w": 256,
+  "h": 256
+ },
+ {
+  "id": "CN-01",
+  "file": "Assets/Art/Cinematics/spr_cin_cin01_panel01.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-02",
+  "file": "Assets/Art/Cinematics/spr_cin_cin01_panel02.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-03",
+  "file": "Assets/Art/Cinematics/spr_cin_cin01_panel03.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-04",
+  "file": "Assets/Art/Cinematics/spr_cin_cin01_panel04.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-05",
+  "file": "Assets/Art/Cinematics/spr_cin_cin02_panel01.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-06",
+  "file": "Assets/Art/Cinematics/spr_cin_cin02_panel02.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-07",
+  "file": "Assets/Art/Cinematics/spr_cin_cin02_panel03.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-08",
+  "file": "Assets/Art/Cinematics/spr_cin_cin02_panel04.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-09",
+  "file": "Assets/Art/Cinematics/spr_cin_cin02_panel05.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-10",
+  "file": "Assets/Art/Cinematics/spr_cin_cin03_panel01.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-11",
+  "file": "Assets/Art/Cinematics/spr_cin_cin03_panel02.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-12",
+  "file": "Assets/Art/Cinematics/spr_cin_cin03_panel03.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-13",
+  "file": "Assets/Art/Cinematics/spr_cin_cin03_panel04.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-14",
+  "file": "Assets/Art/Cinematics/spr_cin_cin03_panel05.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-15",
+  "file": "Assets/Art/Cinematics/spr_cin_cin03_panel06.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-16",
+  "file": "Assets/Art/Cinematics/spr_cin_cin04_finala.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-17",
+  "file": "Assets/Art/Cinematics/spr_cin_cin04_finalb.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-18",
+  "file": "Assets/Art/Cinematics/spr_cin_cin04_finalc.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "CN-19",
+  "file": "Assets/Art/Cinematics/spr_cin_cin04_finald.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "BG-01",
+  "file": "Assets/Art/Screens/spr_bg_menu_principal.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "BG-02",
+  "file": "Assets/Art/Screens/spr_bg_puntuacion.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "BG-03",
+  "file": "Assets/Art/Screens/spr_bg_cierre_educativo.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "BG-04",
+  "file": "Assets/Art/Screens/spr_bg_fin_partida.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "BG-05",
+  "file": "Assets/Art/Screens/spr_bg_creditos.png",
+  "w": 1920,
+  "h": 1080
+ },
+ {
+  "id": "SX-01",
+  "file": "Assets/Audio/SFX/sfx_paso_tierra_01.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-01",
+  "file": "Assets/Audio/SFX/sfx_paso_tierra_02.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-01",
+  "file": "Assets/Audio/SFX/sfx_paso_tierra_03.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-02",
+  "file": "Assets/Audio/SFX/sfx_paso_piedra_01.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-02",
+  "file": "Assets/Audio/SFX/sfx_paso_piedra_02.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-02",
+  "file": "Assets/Audio/SFX/sfx_paso_piedra_03.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-03",
+  "file": "Assets/Audio/SFX/sfx_saltar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-04",
+  "file": "Assets/Audio/SFX/sfx_aterrizar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-05",
+  "file": "Assets/Audio/SFX/sfx_golpe_farol.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-06",
+  "file": "Assets/Audio/SFX/sfx_impacto_enemigo.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-07",
+  "file": "Assets/Audio/SFX/sfx_jugador_dano.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-08",
+  "file": "Assets/Audio/SFX/sfx_anima_desvanece.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-09",
+  "file": "Assets/Audio/SFX/sfx_recolectar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-10",
+  "file": "Assets/Audio/SFX/sfx_talar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-11",
+  "file": "Assets/Audio/SFX/sfx_plantar_bellota.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-12",
+  "file": "Assets/Audio/SFX/sfx_plantar_semilla.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-13",
+  "file": "Assets/Audio/SFX/sfx_cosechar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-14",
+  "file": "Assets/Audio/SFX/sfx_moneda.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-15",
+  "file": "Assets/Audio/SFX/sfx_compra_rechazada.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-16",
+  "file": "Assets/Audio/SFX/sfx_ventana_abrir.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-17",
+  "file": "Assets/Audio/SFX/sfx_ventana_cerrar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-18",
+  "file": "Assets/Audio/SFX/sfx_menu_navegar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-19",
+  "file": "Assets/Audio/SFX/sfx_confirmar.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-20",
+  "file": "Assets/Audio/SFX/sfx_candil_amarillo.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-21",
+  "file": "Assets/Audio/SFX/sfx_campana_anochecer.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-22",
+  "file": "Assets/Audio/SFX/sfx_prueba_completada.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-23",
+  "file": "Assets/Audio/SFX/sfx_impuesto_cobrado.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-24",
+  "file": "Assets/Audio/SFX/sfx_mejora_comprada.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-25",
+  "file": "Assets/Audio/SFX/sfx_robo_tienda.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-26",
+  "file": "Assets/Audio/SFX/sfx_rugido_glotglot.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "SX-27",
+  "file": "Assets/Audio/SFX/sfx_dialogo_avance.wav",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-01",
+  "file": "Assets/Audio/Music/mus_menu_principal.ogg",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-02",
+  "file": "Assets/Audio/Music/mus_pueblo_dia_otono.ogg",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-03",
+  "file": "Assets/Audio/Music/mus_pueblo_dia_invierno.ogg",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-04",
+  "file": "Assets/Audio/Music/mus_pueblo_dia_primavera.ogg",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-05",
+  "file": "Assets/Audio/Music/mus_noche.ogg",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-06",
+  "file": "Assets/Audio/Music/mus_jefe_final.ogg",
+  "w": 0,
+  "h": 0
+ },
+ {
+  "id": "MU-07",
+  "file": "Assets/Audio/Music/mus_finales_creditos.ogg",
+  "w": 0,
+  "h": 0
+ }
+]
