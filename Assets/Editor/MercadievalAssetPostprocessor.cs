@@ -173,13 +173,13 @@ namespace Mercadieval.EditorTools
                 set.loadType = AudioClipLoadType.Streaming;
                 set.compressionFormat = AudioCompressionFormat.Vorbis;
                 set.quality = 0.6f;
-                ai.preloadAudioData = false;
+                set.preloadAudioData = false;
             }
             else
             {
                 set.loadType = AudioClipLoadType.DecompressOnLoad;
                 set.compressionFormat = AudioCompressionFormat.PCM;
-                ai.preloadAudioData = true;
+                set.preloadAudioData = true;
             }
             ai.defaultSampleSettings = set;
             ai.forceToMono = assetPath.Contains("/SFX/");
