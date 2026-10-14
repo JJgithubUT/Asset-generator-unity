@@ -41,7 +41,7 @@ def sources_for_rest():
         im = Image.open(os.path.join(ROOT, f))
         c = Cv.from_image(im)
         if c.w > 1000: c = scale_nn(c, 1)
-        write_piskel([c], os.path.basename(pk)[:-7], os.path.relpath(pk, SRC), fps=1)
+        write_piskel([c], os.path.basename(pk)[:-7], os.path.relpath(pk, SRC), fps=1, scale=1)
         n += 1
     return n
 

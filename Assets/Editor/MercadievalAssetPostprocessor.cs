@@ -1,5 +1,5 @@
 // Mercadieval - importacion automatica de assets 2D (Unity 6.3 LTS).
-// Aplica el apartado 3.3 de la guia (PPU 32, Point, sin compresion, Full Rect, sin mipmaps, Clamp, Alpha Is Transparency)
+// Aplica el apartado 3.3 de la guia v1.1 (estandar de 64 px: PPU 64, Point, sin compresion, Full Rect, sin mipmaps, Clamp, Alpha Is Transparency)
 // y corta las hojas de sprites por tamano de celda segun la carpeta/nombre del archivo.
 // Requiere el paquete "2D Sprite" (viene con la plantilla 2D). Menu: Mercadieval > Reimportar assets de arte.
 using System.Collections.Generic;
@@ -15,7 +15,7 @@ namespace Mercadieval.EditorTools
     {
         const string ArtRoot = "Assets/Art/";
         const string AudioRoot = "Assets/Audio/";
-        const string Version = "mdv1";
+        const string Version = "mdv2";
 
         struct Plan
         {
@@ -30,26 +30,26 @@ namespace Mercadieval.EditorTools
         {
             string p = path.Substring(ArtRoot.Length);
             string n = Path.GetFileNameWithoutExtension(path);
-            var plan = new Plan { ppu = 32, cell = 0, align = SpriteAlignment.Center };
+            var plan = new Plan { ppu = 64, cell = 0, align = SpriteAlignment.Center };
 
             if (p.StartsWith("Characters/"))
             {
                 plan.cell = h;                                   // una fila por animacion: celda = alto
                 plan.align = n.Contains("candil") ? SpriteAlignment.Center : SpriteAlignment.BottomCenter;
             }
-            else if (p.StartsWith("Tilesets/")) { plan.cell = 32; }
+            else if (p.StartsWith("Tilesets/")) { plan.cell = 64; }
             else if (p.StartsWith("Objects/"))
             {
                 plan.align = SpriteAlignment.BottomCenter;
                 plan.cell = (w == h) ? 0 : h;
             }
-            else if (p.StartsWith("Items/")) { plan.cell = p.Contains("singles/") ? 0 : 32; }
-            else if (p.StartsWith("UI/Icons/")) { plan.ppu = 64; plan.cell = p.Contains("singles/") ? 0 : 64; }
+            else if (p.StartsWith("Items/")) { plan.cell = p.Contains("singles/") ? 0 : 64; }
+            else if (p.StartsWith("UI/Icons/")) { plan.ppu = 128; plan.cell = p.Contains("singles/") ? 0 : 128; }
             else if (p.StartsWith("UI/Elements/"))
             {
-                if (n.Contains("marco_ventana")) plan.border = new Vector4(32, 32, 32, 32);
-                else if (n.Contains("caja_dialogo") || n.Contains("ventana_comercio") || n.Contains("notificacion")) plan.border = new Vector4(16, 16, 16, 16);
-                else if (n.Contains("boton") || n.Contains("pestana")) plan.border = new Vector4(16, 16, 16, 16);
+                if (n.Contains("marco_ventana")) plan.border = new Vector4(64, 64, 64, 64);
+                else if (n.Contains("caja_dialogo") || n.Contains("ventana_comercio") || n.Contains("notificacion")) plan.border = new Vector4(32, 32, 32, 32);
+                else if (n.Contains("boton") || n.Contains("pestana")) plan.border = new Vector4(32, 32, 32, 32);
             }
             else if (p.StartsWith("Cinematics/") || p.StartsWith("Screens/")) { plan.panel = true; }
             else if (p.StartsWith("VFX/")) { plan.cell = (w == h) ? 0 : h; }

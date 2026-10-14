@@ -236,11 +236,23 @@ def _ensure(p):
     os.makedirs(os.path.dirname(p), exist_ok=True)
 
 
+SCALE = 2   # estandar de 64 px: cada pixel logico se entrega como bloque de SCALE x SCALE
+SCALED_DIRS = ('Characters/', 'Tilesets/', 'Objects/', 'Items/', 'UI/Icons/', 'UI/Elements/', 'VFX/')
+
+
+def scale_for(rel):
+    rel = rel.replace(os.sep, '/')
+    return SCALE if rel.startswith(SCALED_DIRS) else 1
+
+
 def save(c, rel, asset_id=None, folder='Art', src_group=None):
     """Guarda un PNG-24 RGBA en Assets/<folder>/<rel> y lo registra en el manifiesto."""
     base = ART if folder == 'Art' else AUDIO
     p = os.path.join(base, rel)
     _ensure(p)
+    k = scale_for(rel) if folder == 'Art' else 1
+    if k != 1:
+        c = scale_nn(c, k)
     c.image().save(p, 'PNG')
     MANIFEST.append({'id': asset_id, 'file': os.path.relpath(p, ROOT).replace('\\', '/'), 'w': c.w, 'h': c.h})
     return p
@@ -252,10 +264,13 @@ def png_b64(c):
     return 'data:image/png;base64,' + base64.b64encode(b.getvalue()).decode()
 
 
-def write_piskel(frames, name, rel, fps=12, rows=None):
+def write_piskel(frames, name, rel, fps=12, rows=None, scale=None):
     """Escribe un .piskel (archivo fuente) en Assets/_Source/<rel>. frames: lista de Cv iguales."""
     p = os.path.join(SRC, rel)
     _ensure(p)
+    k = scale_for(rel) if scale is None else scale
+    if k != 1:
+        frames = [scale_nn(f, k) for f in frames]
     w, h = frames[0].w, frames[0].h
     strip = hstack(frames)
     layer = {'name': 'Layer 1', 'opacity': 1, 'frameCount': len(frames),
